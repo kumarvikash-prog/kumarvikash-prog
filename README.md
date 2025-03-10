@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://rishavchanda.io">
+    <img src="https://i.pinimg.com/originals/34/1e/80/341e800b1f29d3e34ea2eba5a6af205c.gif" alt="MasterHead" width="100%" height="150">
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm vikash kumar</h1>
 <h3 align="center">An Aspiring web developer and programmer who is learning to build something great in future ...</h3>
 <img align="center" alt="Coding" width="200" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=L-J1EFIJzlFXa-2bu5K-SqOT0PXYAaPZgXxnpneoF0U">
