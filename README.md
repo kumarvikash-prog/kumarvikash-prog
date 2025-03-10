@@ -34,3 +34,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumarvikash-prog&show_icons=true&locale=en" alt="kumarvikash-prog" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarvikash-prog&" alt="kumarvikash-prog" /></p>
+
+<!-- leetcode stats with heatmap -->
+![Leetcode Stats](https://leetcard.jacoblin.cool/kumarvikash-prog?ext=heatmap)
