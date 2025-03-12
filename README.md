@@ -55,9 +55,11 @@
 
 [![Kumar Vikash's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kumarvikash-prog&theme=react)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-<h3>🧑‍💻 Leetcode stats & Activity</h3> <!-- leetcode stats with heatmap -->
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/kumarvikash-prog?ext=heatmap) 
+<!-- <h3>🧑‍💻 Leetcode stats & Activity</h3>  --> <!-- leetcode stats with heatmap --> 
+
+<!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/kumarvikash-prog?ext=heatmap) -->
+
 
 <!-- Future things - uncomment and see the changes -->
 
