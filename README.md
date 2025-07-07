@@ -1,6 +1,8 @@
 <p align="center">
   <a href="https://rishavchanda.io">
-    <img src="https://i.pinimg.com/originals/34/1e/80/341e800b1f29d3e34ea2eba5a6af205c.gif" alt="MasterHead" width="100%" height="100">
+    <img src="https://i.pinimg.com/originals/34/1e/80/341e800b1f29d3e34ea2eba5a6af205c.gif"
+         alt="MasterHead"
+         style="width: 100%; max-height: 120px; object-fit: cover; display: block; margin: 0 auto;">
   </a>
 </p>
 
