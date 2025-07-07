@@ -1,10 +1,11 @@
-<p align="center">
-  <a href="https://rishavchanda.io">
-    <img src="https://i.pinimg.com/originals/34/1e/80/341e800b1f29d3e34ea2eba5a6af205c.gif"
+<p align="center" style="margin: 0; padding: 0;">
+  <a href="#">
+    <img src="https://gifdb.com/images/high/programming-high-tech-computer-codes-dme0h7x7m3mtt3uv.gif"
          alt="MasterHead"
-         style="width: 100%; max-height: 120px; object-fit: cover; display: block; margin: 0 auto;">
+         style="width: 100%; height: 300px; object-fit: cover; display: block; margin: 0 auto; border-radius: 8px;">
   </a>
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Vikash Kumar</h1>
 <h3 align="center">An aspiring web developer and programmer who is learning to build something great in future ...🚀</h3>
