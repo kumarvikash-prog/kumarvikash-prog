@@ -48,7 +48,7 @@
 
 <h3>🚀 GitHub Stats & Activity</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarvikash-prog&show_icons=true&locale=en&layout=compact" alt="kumarvikash-prog" /></p>
+<p><img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kumarvikash-prog&layout=compact&theme=react" alt="kumarvikash-prog" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumarvikash-prog&show_icons=true&locale=en" alt="kumarvikash-prog" /></p>
 
