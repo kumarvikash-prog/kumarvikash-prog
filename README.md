@@ -9,13 +9,20 @@
 
 <h1 align="center">Hi 👋, I'm Vikash Kumar</h1>
 <h3 align="center">An aspiring web developer and programmer who is learning to build something great in future ...🚀</h3>
-<img align="center" alt="Coding" width="250" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=L-J1EFIJzlFXa-2bu5K-SqOT0PXYAaPZgXxnpneoF0U">
+<p align="center">
+  <img alt="Coding" width="250" src="https://media.licdn.com/dms/image/v2/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=L-J1EFIJzlFXa-2bu5K-SqOT0PXYAaPZgXxnpneoF0U">
+</p>
 
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=kumarvikash-prog&label=Profile%20views&color=0e75b6&style=flat" alt="kumarvikash-prog" /> 
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarvikash-prog&label=Profile%20views&color=0e75b6&style=flat" alt="kumarvikash-prog" /> </p>
+<p align="center"> 
+  <a href="https://twitter.com/vikash_prog" target="blank"><img src="https://img.shields.io/twitter/follow/vikash_prog?logo=twitter&style=for-the-badge" alt="vikash_prog" /></a> 
+</p>
 
-<p align="left"> <a href="https://twitter.com/vikash_prog" target="blank"><img src="https://img.shields.io/twitter/follow/vikash_prog?logo=twitter&style=for-the-badge" alt="vikash_prog" /></a> </p>
+<br/>
 
 - 🔭 I’m currently Learning **Web development**
 
@@ -43,15 +50,21 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
 </p>
 
+<br />
 
-<h3>🚀 GitHub Stats & Activity</h3>
+<h3 align="center">🚀 GitHub Stats & Activity</h3>
+<p align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kumarvikash-prog&layout=compact&theme=react" alt="kumarvikash-prog" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kumarvikash-prog&layout=compact&theme=react" alt="kumarvikash-prog" /></p>
+<br />
 
-<h3>🌱 Contribution Graph</h3> <!-- Github Contribution graph -->
-
-[![Kumar Vikash's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kumarvikash-prog&theme=react)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
+<h3 align="center">🌱 Contribution Graph</h3>
+<p align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarvikash-prog&theme=react" alt="Kumar Vikash's GitHub Activity Graph" />
+  </a>
+</p>
 
 <!-- <h3>🧑‍💻 Leetcode stats & Activity</h3>  --> <!-- leetcode stats with heatmap --> 
 
@@ -60,7 +73,7 @@
 
 <!-- Future things - uncomment and see the changes -->
 
-<!-- 
+
 ## Here are some of the technologies I work with:
 
 - **Frontend:**  
@@ -77,7 +90,7 @@
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
+<!--
 - **Dev Tools:**  
   ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
   ![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=flat&logo=babel&logoColor=black)
@@ -87,5 +100,4 @@
 
 - **Design:**  
   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
 -->
