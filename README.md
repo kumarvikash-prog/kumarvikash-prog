@@ -48,10 +48,6 @@
 
 <p><img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kumarvikash-prog&layout=compact&theme=react" alt="kumarvikash-prog" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumarvikash-prog&show_icons=true&locale=en" alt="kumarvikash-prog" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarvikash-prog&" alt="kumarvikash-prog" /></p>
-
 <h3>🌱 Contribution Graph</h3> <!-- Github Contribution graph -->
 
 [![Kumar Vikash's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kumarvikash-prog&theme=react)](https://github.com/Ashutosh00710/github-readme-activity-graph)
