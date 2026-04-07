@@ -1,12 +1,3 @@
-<p align="center" style="margin: 0; padding: 0;">
-  <a href="#">
-    <img src="https://gifdb.com/images/high/programming-high-tech-computer-codes-dme0h7x7m3mtt3uv.gif"
-         alt="MasterHead"
-         style="width: 100%; height: 300px; object-fit: cover; display: block; margin: 0 auto; border-radius: 8px;">
-  </a>
-</p>
-
-
 <h1 align="center">Hi 👋, I'm Vikash Kumar</h1>
 <h3 align="center">An aspiring web developer and programmer who is learning to build something great in future ...🚀</h3>
 <p align="center">
