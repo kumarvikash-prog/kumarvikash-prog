@@ -43,28 +43,6 @@
 
 <br />
 
-<h3 align="center">🚀 GitHub Stats & Activity</h3>
-<p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kumarvikash-prog&layout=compact&theme=react" alt="kumarvikash-prog" />
-</p>
-
-<br />
-
-<h3 align="center">🌱 Contribution Graph</h3>
-<p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarvikash-prog&theme=react" alt="Kumar Vikash's GitHub Activity Graph" />
-  </a>
-</p>
-
-<!-- <h3>🧑‍💻 Leetcode stats & Activity</h3>  --> <!-- leetcode stats with heatmap --> 
-
-<!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/kumarvikash-prog?ext=heatmap) -->
-
-
-<!-- Future things - uncomment and see the changes -->
-
-
 ## Here are some of the technologies I work with:
 
 - **Frontend:**  
@@ -92,3 +70,28 @@
 - **Design:**  
   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 -->
+
+<br />
+<h3 align="center">🚀 GitHub Stats & Activity</h3>
+<p align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kumarvikash-prog&layout=compact&theme=react" alt="kumarvikash-prog" />
+</p>
+
+<br />
+
+<h3 align="center">🌱 Contribution Graph</h3>
+<p align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarvikash-prog&theme=react" alt="Kumar Vikash's GitHub Activity Graph" />
+  </a>
+</p>
+
+<!-- <h3>🧑‍💻 Leetcode stats & Activity</h3>  --> <!-- leetcode stats with heatmap --> 
+
+<!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/kumarvikash-prog?ext=heatmap) -->
+
+
+<!-- Future things - uncomment and see the changes -->
+
+
+
