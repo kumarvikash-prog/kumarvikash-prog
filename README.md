@@ -15,7 +15,7 @@
 
 <br/>
 
-- 🔭 I’m currently Learning **Web development**
+- 🔭 I’m currently Learning **Building good Projects**
 
 - 🌱 I’m currently Learning and Practicing **DSA And Problem solving**
 
