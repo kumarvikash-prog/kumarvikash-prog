@@ -18,15 +18,19 @@
 
 ## About Me
 
-I’m **Vikash Kumar**, a B.Tech student at **VIT Bhopal**, focused on becoming a strong **AI Engineer and Software Engineer**.
+- I’m **Vikash Kumar**, a B.Tech student at **Vellore Institute of technology** building across **Software Engineering, Web Technologies, Backend Systems, and AI/ML**.
 
-I build systems where software engineering meets AI — from **production-style REST APIs and multi-tenant applications** to **RAG pipelines, agentic workflows, computer vision and machine learning**.
+- I enjoy turning **real problems into simple, useful products** — from understanding what users actually need to designing the system, building the product, and iterating from feedback.
 
-I care about understanding the engineering behind the tools I use: **architecture, data flow, retrieval, evaluation, observability, authentication, databases, cloud infrastructure and algorithms**.
+- I care about more than just adding features or using new technologies. I want to build **simple, reliable, scalable solutions that solve real problems**.
+
+- I’m looking for environments with **ownership, high engineering standards, direct feedback, and strong product thinking**.
+
+> **I think deeply and broadly. Building simply that matters.**
 
 <pre>
-AI Engineering       → RAG · Agents · Tool Calling · LLM Apps · Evaluation
 Software Engineering → APIs · Auth · RBAC · Multi-tenancy · Databases
+AI Engineering       → RAG · Agents · Tool Calling · LLM Apps · Evaluation
 ML / Vision          → Scikit-learn · Random Forest · YOLO · OpenCV
 Problem Solving      → C++ · DSA · Graphs · DP · Algorithms
 </pre>
@@ -35,36 +39,20 @@ Problem Solving      → C++ · DSA · Graphs · DP · Algorithms
 
 | Area | Focus |
 | --- | --- |
-| AI Engineering | RAG, agents, tool calling, memory, query rewriting, LLM applications |
-| GenAI | LangChain, LangGraph, Gemini, ChromaDB, LangSmith |
-| Machine Learning | Scikit-learn, Random Forest, feature engineering, evaluation |
-| Computer Vision | YOLO, OpenCV, image/video processing |
 | Backend | Node.js, Express, REST APIs, layered architecture |
 | Full Stack | React, Next.js, Tailwind CSS, TanStack Query |
 | Databases | PostgreSQL, MongoDB, MySQL, Drizzle ORM |
+| AI Engineering | RAG, agents, tool calling, memory, query rewriting, LLM applications |
+| GenAI | LangChain, LangGraph, Gemini, ChromaDB, LangSmith |
 | Engineering | JWT, OAuth2, RBAC, multi-tenancy, Docker, AWS, CI/CD |
-| DSA | C++, graphs, DP, binary search, recursion, backtracking |
+| Machine Learning | Scikit-learn, Random Forest, feature engineering, evaluation |
+| DSA | C++, Array, Strings, Trees, graphs, DP, binary search, recursion, backtracking |
 
 ---
 
 ## Featured Work
 
-### Agentic AI Knowledge Assistant
-
-A document intelligence system built around **RAG + agentic workflows**.
-
-- Semantic retrieval with ChromaDB
-- Query rewriting for retrieval improvement
-- Tool calling and agent orchestration
-- Persistent conversational memory
-- Conversation summarization
-- Reflection-based response validation
-- Streaming responses
-- LangSmith observability
-
-**Stack:** LangGraph · LangChain · Gemini API · ChromaDB · Streamlit · LangSmith · Python
-
-### Orbyt — Accountability-Driven DSA Platform
+### Orbyt : Group Based Accountability Platform
 
 A multi-tenant platform where friend groups commit to daily DSA practice and keep each other accountable.
 
@@ -81,20 +69,35 @@ A multi-tenant platform where friend groups commit to daily DSA practice and kee
 
 **Stack:** React · Next.js · Tailwind CSS · Node.js · Express · PostgreSQL · Drizzle · JWT · OAuth2 · TanStack Query
 
-### PPE Compliance & Computer Vision
+### Multi-Agent Disaster Response AI
 
-Worked as a **Full Stack Developer Intern at amasQIS.ai** on a predictive-maintenance / PPE compliance system.
+An AI-powered disaster response system where specialized agents collaborate to analyze emergency situations, coordinate resources, and support faster decision-making.
 
-- Built reports and data-driven UI
-- PostgreSQL-backed workflows
-- CSV export and pagination
-- Progress tracking for video/model processing
-- YOLO-based video processing
-- React + Tailwind interfaces
-- Environmental-condition classification using thermal/sensor data
-- Random Forest + Joblib inference
+- Multi-agent architecture for disaster response
+- Specialized AI agents for situation analysis and coordination
+- Real-time disaster information processing
+- Intelligent resource allocation and prioritization
+- Agent-to-agent communication and task delegation
+- AI-driven decision support for emergency scenarios
+- Designed for scalable and modular agent workflows
+- Focused on reducing response time and improving coordination
 
-**Stack:** React · Tailwind CSS · PostgreSQL · Python · YOLO · OpenCV · Random Forest · Joblib
+**Stack:** Python · AI Agents · LangGraph · LangChain · Gemini · LLMs · Multi-Agent Systems · RAG · APIs
+
+### UniMind — AI-Powered University Knowledge Platform
+
+An intelligent platform that brings scattered university information into one place, helping students discover, organize, and interact with academic knowledge.
+
+- Unified platform for university-related information
+- AI-powered knowledge discovery and semantic search
+- Intelligent retrieval of relevant academic information
+- Personalized and context-aware responses
+- Structured organization of university resources
+- Designed around real student workflows and information needs
+- Full-stack architecture with scalable backend services
+- Focused on reducing information fragmentation for students
+
+**Stack:** React · Next.js · Node.js · Express · MongoDB · AI/ML · RAG · LLMs · REST APIs · Tailwind CSS
 
 ---
 
@@ -149,7 +152,7 @@ Worked as a **Full Stack Developer Intern at amasQIS.ai** on a predictive-mainte
 
 ### Cloud, DevOps & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,linux&perline=8"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode&perline=8"/>
 <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
@@ -169,7 +172,7 @@ Software Engineering
 ├── Database Design
 ├── ORM
 ├── Docker / CI-CD
-└── Cloud Fundamentals
+└── AWS / Cloud Fundamentals
 
 AI Engineering
 ├── Embeddings / Vector Search
@@ -185,11 +188,10 @@ AI Engineering
 
 Computer Science
 ├── Data Structures & Algorithms
-├── Graph Algorithms
-├── Dynamic Programming
-├── Binary Search
-├── Greedy
-├── Recursion / Backtracking
+├── Object Oriented Programming
+├── DBMS/SQL
+├── Operating System
+├── Computer Networking
 └── Problem Solving in C++
 </pre>
 
@@ -197,8 +199,9 @@ Computer Science
 
 - **NPTEL Elite + Gold** in IoT, ranked in the **top 1% of 43,953 candidates**.
 - Received a **12-week paid internship opportunity from IIT Kharagpur** through the NPTEL achievement.
-- Completed a software engineering internship on a production-oriented **PPE Compliance / Computer Vision** system.
+- Completed a Full stack developer Internship @amasqis.ai on a production-oriented **PPE Compliance / Computer Vision** system.
 - Built full-stack systems involving authentication, RBAC, multi-tenancy, databases and REST APIs.
+- solved 450+ DSA problems on various Coding Platforms such as Leetcode, Geeks for Geeks, Codeforces, Hackerrank.
 
 ## Currently Learning
 
@@ -241,6 +244,6 @@ I use **C++** as my primary language for DSA and interview preparation.
 
 <div align="center">
 
-### Building. Learning. Shipping.
+### Building. Learning. Shipping. Roaring
 
 </div>
