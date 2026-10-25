@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 288 74" width="288" height="74" role="img" aria-labelledby="ti de" font-family="'Segoe UI','SF Pro Display','Helvetica Neue',Helvetica,Arial,sans-serif">
+<title id="ti">LinkedIn Vikash Kumar</title><desc id="de">LinkedIn Vikash Kumar</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0e1630"/><stop offset="1" stop-color="#060a15"/></linearGradient>
+<pattern id="iso" width="52" height="30" patternUnits="userSpaceOnUse"><path d="M0 0L52 30M52 0L0 30" stroke="#7aa2ff" stroke-opacity=".075" fill="none"/></pattern>
+<radialGradient id="vg" cx=".5" cy=".5" r=".78"><stop offset=".5" stop-color="#050813" stop-opacity="0"/><stop offset="1" stop-color="#050813" stop-opacity=".9"/></radialGradient>
+<linearGradient id="tg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7df3ff"/><stop offset=".5" stop-color="#b79cff"/><stop offset="1" stop-color="#ffa6e4"/></linearGradient>
+<linearGradient id="card" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1a2552"/><stop offset="1" stop-color="#0f1733"/></linearGradient>
+<linearGradient id="card2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#18224a"/><stop offset="1" stop-color="#0b1228"/></linearGradient>
+<linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".75"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<radialGradient id="shd" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#000" stop-opacity=".75"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="soft" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="12"/></filter>
+<clipPath id="cl"><rect width="288" height="74" rx="0"/></clipPath></defs>
+<style>
+.fl{animation:fl 5s ease-in-out infinite}
+@keyframes fl{0%,100%{transform:translateY(0)}50%{transform:translateY(var(--a,-7px))}}
+.sh{transform-box:fill-box;transform-origin:center;animation:sh 5s ease-in-out infinite}
+@keyframes sh{0%,100%{transform:scale(1);opacity:.55}50%{transform:scale(.82);opacity:.28}}
+.tw{animation:tw 3s ease-in-out infinite}
+@keyframes tw{0%,100%{opacity:.15}50%{opacity:1}}
+.pl{transform-box:fill-box;transform-origin:center;animation:pl 2.6s ease-in-out infinite}
+@keyframes pl{0%,100%{transform:scale(1);opacity:.85}50%{transform:scale(1.35);opacity:.15}}
+.fd{stroke-dasharray:5 9;animation:fd 1.4s linear infinite}
+@keyframes fd{to{stroke-dashoffset:-14}}
+.lit{animation:lit 7s ease-in-out infinite}
+@keyframes lit{0%,100%{opacity:.35}6%,16%{opacity:1}30%{opacity:.35}}
+.tl{animation:tl 4s ease-in-out infinite}
+@keyframes tl{0%,100%{opacity:1}50%{opacity:.5}}
+.bl{animation:bl 1.8s ease-in-out infinite}
+@keyframes bl{0%,100%{opacity:1}50%{opacity:.2}}
+.sc{animation:sc 3.2s ease-in-out infinite}
+@keyframes sc{0%{transform:translateY(0);opacity:0}15%{opacity:1}85%{opacity:1}100%{transform:translateY(var(--h,60px));opacity:0}}
+.rs{animation:rs 6s linear infinite;opacity:0}
+@keyframes rs{0%{transform:translateY(20px);opacity:0}15%{opacity:.9}100%{transform:translateY(-120px);opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<g>
+<g class="fl" style="--a:-3px;animation-duration:3.6s"><g opacity="1"><rect x="13.65" y="10.60" width="266.6" height="46.0" rx="12" fill="#0c1a29"/><rect x="12.80" y="11.20" width="266.6" height="46.0" rx="12" fill="#102235"/><rect x="11.95" y="11.80" width="266.6" height="46.0" rx="12" fill="#132941"/><rect x="11.10" y="12.40" width="266.6" height="46.0" rx="12" fill="#17314d"/><rect x="10.25" y="13.00" width="266.6" height="46.0" rx="12" fill="#1b3959"/><rect x="9.40" y="13.60" width="266.6" height="46.0" rx="12" fill="#1e4064"/><rect x="8.55" y="14.20" width="266.6" height="46.0" rx="12" fill="#224870"/><rect x="7.70" y="14.80" width="266.6" height="46.0" rx="12" fill="#26507c"/><rect x="6.85" y="15.40" width="266.6" height="46.0" rx="12" fill="#295788"/><rect x="6" y="16" width="266.6" height="46.0" rx="12" fill="#172e50" stroke="#4da3ff" stroke-opacity=".8" stroke-width="1.4"/><path d="M18.0 17.2H260.6" stroke="#fff" stroke-opacity=".22" stroke-linecap="round"/></g><rect x="14" y="24" width="30" height="30" rx="8" fill="#4da3ff"/><text x="29" y="46" text-anchor="middle" font-size="19" font-weight="900" fill="#0a1124">in</text><text x="54" y="45" font-size="16" font-weight="800" fill="#fff">LinkedIn</text><text x="132.37925" y="45" font-size="16" fill="#62aeff" font-weight="600">Vikash Kumar</text><clipPath id="bc"><rect x="6" y="16" width="266.63025000000005" height="46" rx="12"/></clipPath><g clip-path="url(#bc)"><g transform="skewX(-20)"><rect x="-54" y="16" width="40" height="46" fill="url(#shine)" opacity=".5"><animateTransform attributeName="transform" type="translate" values="0 0;386.63025000000005 0;386.63025000000005 0" keyTimes="0;.4;1" dur="5s" repeatCount="indefinite"/></rect></g></g></g>
+</g>
+</svg>
